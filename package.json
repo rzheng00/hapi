@@ -1,0 +1,17 @@
+{
+  "name": "hapi",
+  "version": "0.0.1",
+  "description": "Hapi demo with basic authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "R.Zheng",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "hapi": "^17.8.1",
+    "hapi-auth-basic": "^5.0.0",
+    "inert": "^5.1.2"
+  }
+}
